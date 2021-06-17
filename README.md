@@ -1,1 +1,2 @@
-# car-game-with-sounds-and-oilspill
+# synchronousBallMovement
+Ball moving synchronously
